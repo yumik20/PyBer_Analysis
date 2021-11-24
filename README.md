@@ -17,6 +17,6 @@ Even the average ride fare and average fare per driver for the rural area are th
 
 1. There are less drivers in the rural area, maybe it has something to do with people owns their own cars, or less population, so even the average fare per ride is the highest, depends on the car owner and population data, perhaps it is not good to increase budget to recruit drivers. Potentially, if the drivers increase, there will be more driver supplies than ride demand. 
 
-2.The same recommendation also applies to the suburban area. Perhaps consider to include the car owner data and population into the next analysis. 
+2. The same recommendation also applies to the suburban area. Perhaps consider to include the car owner data and population into the next analysis. 
 
 3. For the urban area, this might be our money cow. We will need to pay attention to competitors for driver competition. The current average per ride fare is about $25, which is slightly high given people are traveling within the cities. Depends on the public transportation development level and city size, we might need to consider recruit more drivers in order to bring down the average fare even lower to be able to penetrate the market. Since we might share customers and drivers with our competitors, I suggest to collect and analyze our competitors' data through user surveys, or driver surveys to find out whether customers find our price point reasonable. 
