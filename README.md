@@ -8,7 +8,7 @@ Using Pandas and Matplotlib to create a multiple-line graph that shows the total
 
 
 ## Results:
-
+![PyBer_fare_summary](https://raw.githubusercontent.com/yumik20/PyBer_Analysis/main/analysis/PyBer_fare_summary.png)
 
 Most drivers and rides are in the urban area, the next is the suburban area, and then followed by rural area. 
 Even the average ride fare and average fare per driver for the rural area are the highest, because there are less drivers and less demand in rides in the rural area, so the total rare in Urban cities is the highest, then followed by suburban cities and rural cities. 
